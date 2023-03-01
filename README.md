@@ -6,7 +6,7 @@ By doing this project I was be able to have a better undertanding of the themes 
 
 I built this project to support myself during the bootcamp course, and looking back at what I have performed to finish it, I believe that many of the tricks I would get stuck on may be solved by looking back at what I have done. In addition, it was the door to ensure that web development is the career I want to follow.
 
-This project, in addition to demonstrating bootcamp-related topics, also solves problems to minimize the researching time, since important topics that may be take a while to be found have been insereted there and easily consulted.
+This project, in addition to demonstrating bootcamp-related topics, also solves problems to minimize the researching time, since important topics that may be take a while to be found have been inserted there and easily consulted.
 
 Therefore, learning how to build this project and doing it carefully step by step is an essential lessson to overcome all the upcoming challenges.
 
